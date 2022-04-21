@@ -1,0 +1,140 @@
+body{
+	background-color: black;
+	font-family: sans-serif;
+	background-image: url('backgroundimage.jpg');
+	background-size: 100% 41%;
+	background-repeat: no-repeat;
+}
+
+p{
+	margin: 0;
+}
+
+h1{
+	margin: 0;
+}
+
+ .logo {
+	height: 70px;
+	width: 120px;
+	margin-bottom: 100px;
+}
+
+.title{
+	text-align: center;
+	color: white;
+	font-size: 60px;
+	width: 40%;
+	margin-left: 30%; 
+}
+
+.subtitle-one{
+	text-align: center;
+	color: white;
+	font-size: 25px; 
+	margin-top: 20px;
+
+}
+
+.subtitle-two{
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	margin-top: 25px;
+}
+
+.form{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 150px;
+}
+
+.email{
+	width: 350px;
+	padding: 15px;
+	font-size: 15px;
+	border-color: white;
+}
+
+.button{
+	height: 50px;
+	width: 150px;
+	background-color: red;
+	color: white;
+	font-size: 20px;
+	border-color: red;8
+}
+
+.line{
+	background-color: #f3f3f3;
+	height: 10px;
+}
+
+.section-2{
+	display: flex;
+}
+
+.section-2-child-one{
+	/*height: 100px;
+	width: 50%;
+	background-color: yellow;
+	margin-top: 150px;*/
+
+}
+
+.section-2-child-two{
+	/*height: 100px;
+	width: 50%;
+	background-color: blue;
+	margin-top: 100px;*/
+}
+
+.enjoy{
+	color: white;
+	font-size: 50px;
+	text-align: center;
+
+
+}
+
+.watch{
+	color: white;
+	font-size: 25px;
+	text-align: center;
+	
+
+}
+
+.section-3{
+	display: flex;
+}
+
+.section-3-child-one{
+	/*height: 100px;
+	width: 50%;
+	background-color: yellow;*/
+
+
+}
+
+.section-3-child-two{
+	/*height: 100px;
+	width: 50%;
+	background-color: blue;*/
+	margin-top: 150px;
+}
+
+.enjoy{
+	color: white;
+	font-size: 50px;
+	text-align: center;
+	
+
+}
+
+.watch{
+	color: white;
+	font-size: 50px;
+	text-align: center;
+	margin-top: 150px;
+}
